@@ -1,0 +1,11 @@
+/* media queries  */
+@media screen and (min-width:1000px){
+    .form-row .form-control{
+    height:40px !important;
+    width:285px !important;
+}
+.form-row .btn-dark{
+    height:48px;
+    width:285px;
+}
+}
